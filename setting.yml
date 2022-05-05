@@ -1,0 +1,5 @@
+bot:
+  version: 3.2.0
+
+ff14:
+  version: 6.05.0
